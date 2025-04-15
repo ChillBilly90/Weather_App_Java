@@ -63,5 +63,15 @@ License
 This project is for educational purposes. Modify and use freely
 
 Roadmap
-add global geolocation support
-improve location auto suggestions
+Add global geolocation support
+Improve location auto suggestions
+Improve text display under different backgrounds
+Improve logic for auto unit of measurement dependant on country
+Hook up the Search History to the main app
+Add image dependancy packages
+
+
+
+Initial Commit - 4/14/25
+Geo-location features added
+Icons and background displays adjusted
